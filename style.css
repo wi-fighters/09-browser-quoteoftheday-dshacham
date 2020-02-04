@@ -18,10 +18,11 @@ h1 {
 }
 
 h2 {
-    padding: 2rem;
+    padding: 1.5rem;
     border: 2px solid rgb(168, 168, 168);
     border-radius: 0.5rem;
     margin: 2rem 0;
+    font-size: 1rem;
 }
 
 button {
@@ -31,4 +32,6 @@ button {
     border: none;
     font-size: 1.2rem;
     border-radius: 0.5rem;
+    cursor: pointer;
+    outline: none;
 }
