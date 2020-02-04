@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 2rem auto;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    padding: 2rem;
+    border: 2px solid rgb(168, 168, 168);
+    border-radius: 0.5rem;
+    margin: 2rem 0;
+}
+
+button {
+    padding: 0.8rem;
+    background-color: rgb(88, 88, 88);
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+}
